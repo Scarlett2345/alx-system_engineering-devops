@@ -2,4 +2,4 @@
 You should use exactly 8 characters for your command (+1 character for the new line).
 You can assume that the user betty will exist when we will run your script.<br />
 1.Write a script that prints the effective username of the current user.<br />
-2.
+2.Write a script that prints all the groups the current user is part of.<br />
